@@ -1,6 +1,7 @@
 <resources>
     <!-- list -->
     <dimen name="app_bar_image_padding">72dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
     <!-- list item -->
     <dimen name="card_view_margin">4dp</dimen>
     <dimen name="title_padding">16dp</dimen>
