@@ -32,7 +32,7 @@
             android:paddingTop="@dimen/title_padding"
             android:paddingRight="@dimen/title_padding"
             android:paddingBottom="@dimen/title_padding_bottom"
-            android:textColor="@color/theme_primary"
+            android:textColor="@color/colorPrimary"
             android:ellipsize="end"
             android:maxLines="4" />
 
@@ -44,7 +44,7 @@
             android:paddingLeft="@dimen/title_padding"
             android:paddingRight="@dimen/title_padding"
             android:paddingBottom="@dimen/title_padding"
-            android:textColor="@color/theme_accent"
+            android:textColor="@color/colorGray"
             android:maxLines="2"
             android:ellipsize="end" />
     </LinearLayout>

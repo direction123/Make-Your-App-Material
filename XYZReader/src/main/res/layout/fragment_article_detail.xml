@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:contentScrim="@color/theme_accent"
+            app:contentScrim="@color/colorPrimary"
             >
 
             <ImageView
@@ -55,7 +55,7 @@
             android:id="@+id/meta_bar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/theme_primary"
+            android:background="@color/colorPrimary"
             android:orientation="vertical">
 
             <TextView
@@ -85,11 +85,11 @@
                 style="?android:attr/textAppearanceMedium"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="@color/theme_primary"
-                android:textColorLink="@color/theme_accent"
+                android:textColor="@color/colorPrimary"
+                android:textColorLink="@color/colorAccent"
                 android:textSize="@dimen/detail_body_text_size"
                 android:padding="@dimen/detail_inner_horiz_margin"
-                android:background="@color/ltgray"/>
+                android:background="@color/colorGrayLight"/>
 
         </LinearLayout>
 

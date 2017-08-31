@@ -16,7 +16,7 @@
             android:layout_height="match_parent"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
             android:fitsSystemWindows="true"
-            app:contentScrim="@color/theme_accent"
+            app:contentScrim="@color/colorPrimary"
             >
 
             <ImageView
@@ -27,7 +27,7 @@
                 android:fitsSystemWindows="true"
                 app:layout_collapseMode="parallax"
                 android:src="@drawable/logo"
-                android:tint="@color/colorOrange"
+                android:tint="@color/colorAccent"
                 android:paddingLeft="@dimen/app_bar_image_padding"
                 android:paddingRight="@dimen/app_bar_image_padding"/>
 
