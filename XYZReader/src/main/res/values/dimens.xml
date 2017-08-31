@@ -2,6 +2,10 @@
     <!-- list -->
     <dimen name="app_bar_height">175dp</dimen>
     <dimen name="app_bar_image_padding">72dp</dimen>
+    <!-- list item -->
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="title_padding">16dp</dimen>
+    <dimen name="title_padding_bottom">4dp</dimen>
 
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
