@@ -1,3 +1,0 @@
-= XYZ Reader
-
-An android app which is a mock RSS feed reader featuring banner photos and headlines. UI is made conform to Material Design.
